@@ -1,4 +1,4 @@
-Simple Socket Programming Task
+# Simple Socket Programming Task
 
 Implements two basic commands
 - 'listall'
